@@ -1,0 +1,18 @@
+# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  #
+
+# you can choose themes from $HOME/.config/kitty/kitty-themes/
+include ./kitty-themes/01-Wallust.conf
+
+#foreground #dddddd
+#background #000000
+cursor #dddddd
+
+font_family FantasqueSansM Nerd Font Mono Bold
+font_size 12.0
+bold_font auto
+italic_font auto
+bold_italic_font auto
+background_opacity 0.4
+cursor_trail 1
+foreground #ffffff
+background #000000

@@ -1,0 +1,14 @@
+windowrule = opacity 0.5 0.4, tag:terminal*
+windowrule = opacity 0.8 0.8,class:^(code)$
+windowrule = opacity 0.9 0.9, tag:browser*
+windowrule = opacity 0.9 0.9,class:^(code)$
+windowrule = tag +projects, class:^(VSCode|code-url-handler)$
+windowrule = workspace 1, tag:email*
+windowrule = workspace 2, tag:browser*
+windowrule = workspace 4 silent, tag:screenshare*
+windowrule = workspace 5, tag:gamestore*
+windowrule = workspace 6 silent, class:^(virt-manager)$
+windowrule = workspace 6 silent, class:^(.virt-manager-wrapped)$
+windowrule = workspace 7, tag:im*
+windowrule = workspace 8, tag:games*
+windowrule = workspace 9 silent, tag:multimedia*
